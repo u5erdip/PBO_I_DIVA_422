@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="admin" />
+    <module name="tugas mod2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
